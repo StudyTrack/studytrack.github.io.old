@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Добро пожаловать на страницы **StudyTrack**
 
-You can use the [editor on GitHub](https://github.com/StudyTrack/studytrack.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Здесь мы выкладываем _предложения_ наших _партнеров_ - зарубежных языковых школ и _воспоминания_ от наших _клиентов_, которым мы помогли съездить на учебу.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**[Пишите] (mailto:studytrack.me@gmail.com)** свои предложения по развитию и наполнению сайта. Также **[обращайтесь] (mailto:studytrack.me@gmail.com)**, если вам нужна _помощь в организации поездки_.
 
-### Markdown
+# Предложения 2018 *
+* цена за **2** _недели_ , по ссылке подробности.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Ирландия
 
-```markdown
-Syntax highlighted code block
+- **€1,940**, [Английский + Робототехника] (http://studytrack.me/English_Robotics___CodingRu/index), **13-17** лет, **1.08-15.08.2018** г., Дублин, **HSI**
+- **€1,280**, [Английский в действии] (http://studytrack.me/pdf/2018-ISI-Junior-Summer-CampRu), **12-17** лет, **25.07-10.08.2018** г., Дублин, **ISI**
 
-# Header 1
-## Header 2
-### Header 3
+## Мальта
 
-- Bulleted
-- List
+## Англия
 
-1. Numbered
-2. List
+## США (учеба, W&T не будем, слишком долго сейчас визы получать)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StudyTrack/studytrack.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Воспоминания 2017
