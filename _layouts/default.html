@@ -18,13 +18,17 @@
   <body>
 
       <header>
+ 
+ display: block; /* Для старых браузеров */
+ height: 405px; /* Высота шапки */
+ background: url(logo.png) no-repeat right bottom;
+}
         <h1>{{ site.title | default: site.github.repository_name }}</h3>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
       </header>
 
     <div class="wrapper">
       <nav>
-        <img src="logo.png" alt="" height="25%">
         <ul></ul>
       </nav>
       <section>
