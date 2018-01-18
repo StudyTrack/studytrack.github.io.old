@@ -18,11 +18,10 @@
   <body>
 
       <header>
- {
- display: block; /* Для старых браузеров */
- height: 405px; /* Высота шапки */
- background: url(logo.png) no-repeat right bottom;
-}
+        { display: block; /* Для старых браузеров */
+         height: 405px; /* Высота шапки */
+         background: url(logo.png) no-repeat center bottom;
+        }
         <h1>{{ site.title | default: site.github.repository_name }}</h3>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
       </header>
