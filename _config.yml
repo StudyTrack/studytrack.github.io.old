@@ -1,3 +1,18 @@
-theme: jekyll-theme-cayman
-title: Добро пожаловать на StudyTrack
-description: следите за обновлениями
+'theme: jekyll-theme-cayman
+'title: Добро пожаловать на StudyTrack
+'description: следите за обновлениями
+---
+paginate: 5
+markdown: kramdown
+redcarpet:
+  extensions: [fenced_code_blocks, strikethrough, superscript]
+
+custom:
+  title: Добро пожаловать на StudyTrack
+  'url: http://marklodato.github.io
+  'author_name: Mark Lodato
+  'author_email: lodatom@gmail.com
+  'analytics_id: UA-13167645-1
+
+gems:
+  - jekyll-sitemap
